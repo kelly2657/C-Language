@@ -16,3 +16,5 @@ int main(){
 	squ(n);
 	return 0;
 }
+
+

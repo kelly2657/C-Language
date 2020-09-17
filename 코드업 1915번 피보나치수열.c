@@ -2,7 +2,7 @@
 
 int cnt = 1;	// ÀÚ¸´¼ö
 int n; 
-int fi(int x, y){
+int fi(int x, int y){
 	
 	if(cnt == n){
 		return x;
